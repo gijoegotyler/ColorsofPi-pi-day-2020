@@ -1,0 +1,16 @@
+{
+  "name": "colors-of-pi",
+  "version": "1.0.0",
+  "description": "Encode Colors \u001b[1;5D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Cusing pi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tyler Wright",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
