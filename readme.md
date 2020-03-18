@@ -1,5 +1,4 @@
 ## The Colors of Pi
----
 
 I wrote this project as a coding challenge for PI Day 2020 inspired by Daniel Shiffman.
 
